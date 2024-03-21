@@ -2,7 +2,7 @@
 <br>
 
 ### Welcome to My Github
-Hi guys, im a Data Analyst student who's currnetly exploring Front-End software development✌️
+I am a software engineer who love to explore and build new technologies especially in web3. LETS BUILD!!!!!
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*** Programming languages***
 <br>
